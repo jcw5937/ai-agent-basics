@@ -1,6 +1,8 @@
+ipykernel
 openai
 python-dotenv
 httpx
 langgraph
 langchain_openai
 langchain_community
+pygraphviz
